@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "html music less gulp",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "minimatch": "^3.0.2"
+  },
   "devDependencies": {
     "autoprefixer": "^9.5.0",
     "gulp": "^3.9.1",
