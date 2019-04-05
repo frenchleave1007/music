@@ -1,3 +1,4 @@
 # music
-# npm install
-# gulp
+# 项目运行
+1. npm install
+2. gulp
