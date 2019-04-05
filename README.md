@@ -1,1 +1,3 @@
 # music
+npm install
+gulp
